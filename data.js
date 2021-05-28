@@ -6,7 +6,8 @@ exports.user = [
         school: [
             {
                 name:'Delhi Public School',
-                class: 11
+                class: 11,
+                section: 'A'
             }
         ]
     },
@@ -17,7 +18,8 @@ exports.user = [
         school: [
             {
                 name:'Delhi Public School',
-                class: 12
+                class: 12,
+                section: 'B'
             }
         ]
     },
@@ -28,7 +30,8 @@ exports.user = [
         school: [
             {
                 name:'indian Public School',
-                class: 5
+                class: 5,
+                section: 'A'
             }
         ]
     }

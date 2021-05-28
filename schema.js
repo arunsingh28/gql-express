@@ -17,7 +17,9 @@ module.exports = schema = buildSchema(`
         id: Int!,
         name: String!,
         sex: String!,
+
     }
+
 `)
 
 
